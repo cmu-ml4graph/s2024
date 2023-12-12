@@ -1,8 +1,8 @@
-#baseurl: "" 
-#url: "http://localhost" 
+#baseurl: ""
+#url: "http://localhost"
 
-baseurl: ""
-url: "localhost"
+baseurl: "/s2024"
+url: "https://cmu-ml4graph.github.io/"
 
 # Build settings
 markdown: kramdown
@@ -20,6 +20,3 @@ future: true
 collections:
     events:
         output: true
-
-
-
