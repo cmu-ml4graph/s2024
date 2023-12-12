@@ -279,8 +279,6 @@ schedule:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/20.pdf
         name: slides
     main:
-      - url: https://arxiv.org/abs/1705.02426
-        title: "Analogical Inference for Multi-Relational Embeddings"
       - url: https://arxiv.org/pdf/1902.10197.pdf
         title: "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space"
 
@@ -329,7 +327,7 @@ schedule:
     kind: Lecture
     date: 2024-04-16T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/22.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/23.pdf
         name: slides
     main:
       - url: https://arxiv.org
@@ -341,7 +339,7 @@ schedule:
     kind: Lecture
     date: 2024-04-18T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/23.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/24.pdf
         name: slides
     main:
       - url: https://proceedings.neurips.cc/paper_files/paper/2019/file/9d63484abb477c97640154d40595a3bb-Paper.pdf
@@ -353,7 +351,7 @@ schedule:
     kind: Lecture
     date: 2024-04-23T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/23.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/25.pdf
         name: slides
     main:
       - url: https://arxiv.org/abs/1605.01832
