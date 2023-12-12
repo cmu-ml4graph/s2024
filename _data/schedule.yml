@@ -299,7 +299,7 @@ schedule:
       - title: <b> HW5. Node Embedding with TransE. </b>
       - title: <b> Due 4/18 11:59PM </b>
 
-  - number: 21
+  - number: 22
     title: "TBD (by Neil Shah)"
     theme: Graph 12
     kind: Guest Speaker
@@ -323,7 +323,7 @@ schedule:
     kind: No class
     date: 2024-04-13T15:30
 
-  - number: 22
+  - number: 23
     title: "TBD"
     theme: Graph 13
     kind: Lecture
@@ -335,7 +335,7 @@ schedule:
       - url: https://arxiv.org
         title: "TBD"
 
-  - number: 23
+  - number: 24
     title: "Reasoning with Heterogeneous Graphs (I)"
     theme: Graph 14
     kind: Lecture
@@ -347,7 +347,7 @@ schedule:
       - url: https://proceedings.neurips.cc/paper_files/paper/2019/file/9d63484abb477c97640154d40595a3bb-Paper.pdf
         title: "Graph Transformer Networks"
 
-  - number: 23
+  - number: 25
     title: "Reasoning with Heterogeneous Graphs (II)"
     theme: Graph 15
     kind: Lecture
