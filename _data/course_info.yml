@@ -1,0 +1,66 @@
+# Top-level description
+course_name: "Machine Learning with Graphs"
+# (previous name: Machine Learning for Text and Graph-based Mining)
+course_summary: "Graphs offer a natural way to represent complex relationships among objects of all kinds. Neural network learning with graphs has become important in both academic research and industrial applications.  This course (for graduate and undergraduate students who meet the prerequisites) offers a mixture of fundamental concepts, algorithms, basic and advanced models, and applications ranging from social popularity analysis and knowledge graph reasoning to deep learning for solving NP-complete problems."
+
+# Course description
+prerequisites: CS courses on data structures, algorithms, programming (e.g., 15-213), linear algebra (e.g., 21-241 or 21-341), and introductory probability (e.g., 21-325). Introductory Machine Learning (e.g., 10-701 or 10-601) and neural network courses will be helpful but not required.
+course_materials: <b> No textbook is used in this course. Instead, relevant papers/readings are listed as references.  Course slides and reading material are available online for registered students who will be given the user ID and password. </b>
+exams: Open-book midterm and final exams, with a set of questions (about 10) and a list of possible answers to choose from per question.  Mid-term exam will cover the lecture contents in the 1st half of the semester, and the final exam will cover the lecture contents in the 2nd half. The exams will not focus on the contents of the HW assignments.
+
+# Logistics
+course_semester: "Spring 2024"
+course_dept: LTI
+course_num: 11-741/11-641/11-441
+classes: Tuesdays and Thursdays 12:30pm - 1:50pm
+room: MM A14
+office_hours: See Piazza
+schoolname: "Carnegie Mellon University"
+schoolurl: "https://www.cmu.edu/"
+
+# Instructors
+instructors:
+  - name: Yiming Yang
+    profile_pic: /_images/site/yiming.jpeg
+    webpage: https://www.cs.cmu.edu/~./yiming/
+
+teaching_assistants:
+  - name: Zhiqing Sun
+    profile_pic: /_images/site/zhiqing.jpeg
+    webpage: https://www.cs.cmu.edu/~zhiqings/
+  - name: Zekai Li
+    profile_pic: /_images/site/zekai.jpeg
+    webpage: https://www.linkedin.com/in/zekaili22
+
+# Homework
+homework:
+  - HW1. Implementing neural networks (CNN and RNN) for binary classification with word embedding on the Yelp review dataset and using software like TensorFlow or Keras.
+  - HW2. Implementing soft-max logistic regression for multi-class classification of Yelp reviews, with the derivation of the gradients of the loss functions.
+  - HW3. Implementing PageRank, Personalized PageRank and Query Sensitive PageRank methods for web-page popularity analysis and evaluating their retrieval performance on the CiteEval dataset.
+  - HW4. Implementing Graph Neural Network (GNN) models for simi-supervised node classification, link prediction, and graph classification.
+  - HW5. Reasoning with Knowledge Graphs; Node Embedding with TransE.
+
+# Grading
+grading:
+  - We have merged the previous 11-741 (PhD level) and 11-641 (Master Level) sections into one (11-741, 12 units) for graduate students (PhD or Master without distinction). Undergraduate students should take the 11-441 section (9 units), which is the same as before.
+  - Graduate students (in 11-741) are required to do all the 5 homework (HW) assignments, and all the questions in the midterm and final exams.
+  - Undergraduate students (in 11-441) are required to do 4 out of the 5 HW assignments, by their own choices, and 70% of the exam questions (e.g., 7 out of the total of 10 questions), again by their own choices. If an undergraduate chooses to do more HW assignments, we will use the best-4 scores in the final HW grading. Similarly, if an undergraduate chooses to do more exam questions, we will use the scores of the 70% best answered questions in the Exam grading.
+  - The table below shows the grading policies explicitly.
+
+# Policies
+policies:
+  - Homework is due by 11:59pm of the due date. It must be submitted by Gradescope. If Gradescope is down, it must be submitted by email to the TA.
+  - A 10% penalty is applied for each day that the homework is late.
+  - <a href="http://la.lti.cs.cmu.edu/classes/11-741/f23/Policy/cheating.html">Cheating</a> (<a href="http://la.lti.cs.cmu.edu/classes/11-741/f23/Policy/cheating_policy_form.pdf">form to sign</a>)
+
+# Links
+links:
+  - name: Piazza
+    url: https://piazza.com/
+  - name: Canvas
+    url: https://canvas.cmu.edu/
+
+# Covid Teaching Strategies
+covid_teaching_strategies:
+  - If lecturers or students cannot come to the in-person classes due to illness or exposure to COVID, videos of live recordings from this semester or a past semester will be offered through piazza. A notification will be sent out in advance by the instructors via piazza if they cannot deliver the lectures in person.
+  - All of us benefit from support during times of struggle. You are not alone. There are many helpful resources available on campus and an important part of the college experience is learning how to ask for help. Asking for support sooner rather than later is often helpful.

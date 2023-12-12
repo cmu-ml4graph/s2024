@@ -1,0 +1,25 @@
+#baseurl: "" 
+#url: "http://localhost" 
+
+baseurl: ""
+url: "localhost"
+
+# Build settings
+markdown: kramdown
+
+# Other options
+permalink: blog/:year/:month/:title
+excerpt_separator: "<!--more-->"
+
+include: ['_images', '_css']
+exclude: ['develop']
+
+dateformat: "%m/%d/%Y"
+
+future: true
+collections:
+    events:
+        output: true
+
+
+

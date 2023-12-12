@@ -1,0 +1,368 @@
+schedule:
+  - number: 1
+    title: Course overview and introduction
+    theme: Overview
+    kind: Lecture
+    date: 2024-01-16T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/1.pdf
+        name: slides
+
+  - number: 2
+    title: "Word Embedding"
+    theme: DL1
+    kind: Lecture
+    date: 2024-01-18T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/2.pdf
+        name: slides
+
+    main:
+      - url: https://arxiv.org/abs/1301.3781
+        title: "Efficient Estimation of Word Representations in Vector Space"
+      - url: https://arxiv.org/abs/1411.2738
+        title: "word2vec Parameter Learning Explained"
+
+  - number: 3
+    title: "Recurrent Neural Network"
+    theme: DL2
+    kind: Lecture
+    date: 2024-01-23T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/3.pdf
+        name: slides
+
+    main:
+      - url: https://dennybritz.com/posts/wildml/recurrent-neural-networks-tutorial-part-1
+        title: "Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs"
+      - url: https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+        title: "Understanding LSTM Networks"
+
+  - number: 4
+    title: "Convolutional Neural Networks"
+    theme: DL3
+    kind: Lecture
+    date: 2024-01-25T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/4.pdf
+        name: slides
+    main:
+      - url: https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
+        title: "An Intuitive Explanation of Convolutional Neural Networks"
+    homework:
+      - title: <b> HW1. RNN & CNN classifiers. </b>
+      - title: <b> Due 2/8 11:59PM </b>
+
+  - number: 5
+    title: Neural Attention Models
+    theme: DL4
+    kind: Lecture
+    date: 2024-01-30T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/5.pdf
+        name: slides
+    main:
+      - url: https://arxiv.org/abs/1409.0473
+        title: "Neural Machine Translation by Jointly Learning to Align and Translate"
+      - url: https://arxiv.org/abs/1706.03762
+        title: "Attention Is All You Need"
+
+
+  - number: 6
+    title: Language Model Architectures (Invited Lecture by Ruohong Zhang)
+    theme: DL5
+    kind: Guest speaker
+    date: 2024-02-01T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/6.pdf
+        name: slides
+    main:
+      - url: "https://arxiv.org/abs/2005.14165"
+        title: "Language Models are Few-Shot Learners"
+
+  - number: 7
+    title: "Binary Logistic Regression & Convexity"
+    theme: CLS1
+    kind: Lecture
+    date: 2024-02-06T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/7.pdf
+        name: slides
+    main:
+      - url: https://www.youtube.com/watch?v=4u81xU7BIOc
+        title: "Andrew Ng 01 Classification 8 min"
+
+  - number: 8
+    title: "Multi-class Logistic Regression & Decision Boundaries"
+    theme: CLS2
+    kind: Lecture
+    date: 2024-02-08T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/8.pdf
+        name: slides
+
+    homework:
+      - title: <b> HW2. Softmax with SGD </b>
+      - title: <b> Due 2/27 11:59PM </b>
+
+  - number: 9
+    title: "Stochastic Gradient Descent (SGD), Evaluation Metrics"
+    theme: CLS3
+    kind: Lecture
+    date: 2024-02-13T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/9.pdf
+        name: slides
+
+    main:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/Papers/Shalev-icml2007-subgradient.pdf
+        title: "Pegasos: Primal Estimated sub-GrAdient SOlver for SVM"
+
+  - number: 10
+    title: Extreme-scale Neural Classifiers (XTransformer, AttentionXML)
+    theme: CLS4
+    kind: Lecture
+    date: 2024-02-15T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/10.pdf
+        name: slides
+    main:
+      - url: https://arxiv.org/pdf/1811.01727.pdf
+        title: "AttentionXML: Label Tree-based Attention-Aware Deep Model for High-Performance Extreme Multi-Label Text Classification"
+      - url: https://arxiv.org/pdf/1905.02331.pdf
+        title: "Taming Pretrained Transformers for Extreme Multi-label Text Classification"
+
+  - number: 11
+    title: "Social Popularity Analysis I: HITS & PageRank"
+    theme: Graph 1
+    kind: Lecture
+    date: 2024-02-20T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/11.pdf
+        name: slides
+    main:
+      - url: https://www.cs.cmu.edu/~christos/courses/826-resources/PAPERS+BOOK/google-anatomy.pdf
+        title: "The Anatomy of a Large-Scale Hypertextual Web Search Engine"
+      - url: https://www.cs.cornell.edu/home/kleinber/auth.pdf
+        title: "Authoritative Sources in a Hyperlinked Environment"
+
+  - number: 12
+    title: "Social Popularity Analysis II: Personalized & Topic-sensitive PageRank"
+    theme: Graph 2
+    kind: Lecture
+    date: 2024-02-22T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/12.pdf
+        name: slides
+    main:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/Papers/haveliwala-www02-tspr.pdf
+        title: "Topic-Sensitive PageRank"
+    homework:
+      - title: <b> HW3. PageRank methods. </b>
+      - title: <b> Due 3/19 11:59PM </b>
+  - number: 13
+    title: "Matrix Factorization (Eigendecompostion and SVD)"
+    theme: Graph 3
+    kind: Lecture
+    date: 2024-02-27T15:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/13.pdf
+        name: slides
+  - number: ""
+    title: ""
+    theme: <mark><b> Midterm Exam on Lectures 1-13 </b></mark>
+    kind: Exam
+    date: 2024-02-29T15:30
+    note:
+      - title: in the same classroom and time slot as a regular class
+
+  - number: ""
+    title: Spring break
+    theme: Spring break
+    kind: Spring break
+    date: 2024-03-05T15:30
+  - number: ""
+    title: Spring break
+    theme: Spring break
+    kind: Spring break
+    date: 2024-03-07T15:30
+  - number: 14
+    title: "Node Embedding"
+    theme: Graph 4
+    kind: Lecture
+    date: 2024-03-12T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/14.pdf
+        name: slides
+    main:
+      - url: https://proceedings.neurips.cc/paper/2001/file/f106b7f99d2cb30c3db1c3cc0fde9ccb-Paper.pdf
+        title: "Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering"
+      - url: https://arxiv.org/pdf/1403.6652.pdf
+        title: "DeepWalk: Online Learning of Social Representations"
+  - number: 15
+    title: "Graph Neural Networks (I)"
+    theme: Graph 5
+    kind: Lecture
+    date: 2024-03-14T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/15.pdf
+        name: slides
+    main:
+      - url: https://arxiv.org/pdf/1609.02907.pdf
+        title: "Semi-Supervised Classification with Graph Convolutional Networks"
+      - url: https://arxiv.org/pdf/1710.10903.pdf
+        title: "Graph Attention Networks"
+    homework:
+      - title: <b> HW4. Graph-based prediction tasks. </b>
+      - title: <b> Due 4/2 11:59PM </b>
+
+  - number: 16
+    title: "Graph Neural Networks (II)"
+    theme: Graph 6
+    kind: Lecture
+    date: 2024-03-19T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/16.pdf
+        name: slides
+    main:
+      - url: https://arxiv.org/abs/1810.00826
+        title: "How Powerful are Graph Neural Networks?"
+      - url: https://arxiv.org/abs/2210.04123
+        title: "Anisotropic GNN (in DIMES, NeurIPS 2022)"
+
+  - number: 17
+    title: "ML for NP-Complete Problems (I): Fundamentals (Invited Lecture by Shengyu Feng)"
+    theme: Graph 7
+    kind: Guest Speaker
+    date: 2024-03-21T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/17.pdf
+        name: slides
+    main:
+      - url: https://arxiv.org
+        title: "TBD"
+
+  - number: 18
+    title: "ML for NP-Complete Problems (II): with RNN, Transformer, Active Search"
+    theme: Graph 8
+    kind: Lecture
+    date: 2024-03-26T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/18.pdf
+        name: slides
+    main:
+      - url: https://arxiv.org/pdf/1810.10659.pdf
+        title: "Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search"
+      - url: https://arxiv.org/abs/1803.08475
+        title: "Attention, Learn to Solve Routing Problems!"
+
+  - number: 19
+    title: "ML for NP-Complete Problems (III): with DRL, Diffusion Models, LLMs"
+    theme: Graph 9
+    kind: Lecture
+    date: 2024-03-28T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/19.pdf
+        name: slides
+    main:
+      - url: https://arxiv.org/abs/2210.04123
+        title: "DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems"
+      - url: https://arxiv.org/abs/2302.08224
+        title: "DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization"
+
+  - number: 20
+    title: "Knowledge Graph Embedding (I): TransE, RotatE (Invited Lectured by Zhiqing Sun)"
+    theme: Graph 10
+    kind: Guest Speaker
+    date: 2024-04-02T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/20.pdf
+        name: slides
+    main:
+      - url: https://arxiv.org/abs/1705.02426
+        title: "Analogical Inference for Multi-Relational Embeddings"
+      - url: https://arxiv.org/pdf/1902.10197.pdf
+        title: "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space"
+
+  - number: 21
+    title: "Knowledge Graph Embedding (II): Analogy"
+    theme: Graph 11
+    kind: Lecture
+    date: 2024-04-04T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/21.pdf
+        name: slides
+    main:
+      - url: https://arxiv.org/abs/1705.02426
+        title: "Analogical Inference for Multi-Relational Embeddings"
+    homework:
+      - title: <b> HW5. Node Embedding with TransE. </b>
+      - title: <b> Due 4/18 11:59PM </b>
+
+  - number: 21
+    title: "TBD (by Neil Shah)"
+    theme: Graph 12
+    kind: Guest Speaker
+    date: 2024-04-09T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/22.pdf
+        name: slides
+    main:
+      - url: https://arxiv.org
+        title: "TBD"
+
+  - number: ""
+    title: Spring carnival (No class)
+    theme: Spring carnival (No class)
+    kind: No class
+    date: 2024-04-11T15:30
+
+  - number: ""
+    title: Spring carnival (No class)
+    theme: Spring carnival (No class)
+    kind: No class
+    date: 2024-04-13T15:30
+
+  - number: 22
+    title: "TBD"
+    theme: Graph 13
+    kind: Lecture
+    date: 2024-04-16T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/22.pdf
+        name: slides
+    main:
+      - url: https://arxiv.org
+        title: "TBD"
+
+  - number: 23
+    title: "Reasoning with Heterogeneous Graphs (I)"
+    theme: Graph 14
+    kind: Lecture
+    date: 2024-04-18T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/23.pdf
+        name: slides
+    main:
+      - url: https://proceedings.neurips.cc/paper_files/paper/2019/file/9d63484abb477c97640154d40595a3bb-Paper.pdf
+        title: "Graph Transformer Networks"
+
+  - number: 23
+    title: "Reasoning with Heterogeneous Graphs (II)"
+    theme: Graph 15
+    kind: Lecture
+    date: 2024-04-23T12:30
+    links:
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/23.pdf
+        name: slides
+    main:
+      - url: https://arxiv.org/abs/1605.01832
+        title: "Cross-Graph Learning of Multi-Relational Associations"
+
+  - number: ""
+    title: ""
+    theme: <mark><b> Final Exam on Lectures 14 - 25 </b></mark>
+    kind: Exam
+    date: 2024-04-25T12:30
+    note:
+      - title: in the same classroom and time slot as a regular class
