@@ -14,7 +14,7 @@ course_dept: LTI
 course_num: 11-741/11-641/11-441
 classes: Tuesdays and Thursdays 12:30pm - 1:50pm
 room: NSH 1305
-office_hours: See Piazza
+office_hours: See <a href="https://piazza.com/cmu/spring2024/11441741/home">Piazza</a>
 schoolname: "Carnegie Mellon University"
 schoolurl: "https://www.cmu.edu/"
 
@@ -56,9 +56,9 @@ policies:
 # Links
 links:
   - name: Piazza
-    url: https://piazza.com/
+    url: https://piazza.com/cmu/spring2024/11441741/home
   - name: Canvas
-    url: https://canvas.cmu.edu/
+    url: https://canvas.cmu.edu/courses/38825
 
 # Covid Teaching Strategies
 covid_teaching_strategies:
