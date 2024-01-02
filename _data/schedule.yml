@@ -5,7 +5,7 @@ schedule:
     kind: Lecture
     date: 2024-01-16T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/1.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/1.pdf
         name: slides
 
   - number: 2
@@ -14,7 +14,7 @@ schedule:
     kind: Lecture
     date: 2024-01-18T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/2.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/2.pdf
         name: slides
 
     main:
@@ -29,7 +29,7 @@ schedule:
     kind: Lecture
     date: 2024-01-23T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/3.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/3.pdf
         name: slides
 
     main:
@@ -44,7 +44,7 @@ schedule:
     kind: Lecture
     date: 2024-01-25T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/4.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/4.pdf
         name: slides
     main:
       - url: https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
@@ -59,7 +59,7 @@ schedule:
     kind: Lecture
     date: 2024-01-30T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/5.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/5.pdf
         name: slides
     main:
       - url: https://arxiv.org/abs/1409.0473
@@ -74,7 +74,7 @@ schedule:
     kind: Guest speaker
     date: 2024-02-01T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/6.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/6.pdf
         name: slides
     main:
       - url: "https://arxiv.org/abs/2005.14165"
@@ -86,7 +86,7 @@ schedule:
     kind: Lecture
     date: 2024-02-06T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/7.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/7.pdf
         name: slides
     main:
       - url: https://www.youtube.com/watch?v=4u81xU7BIOc
@@ -98,7 +98,7 @@ schedule:
     kind: Lecture
     date: 2024-02-08T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/8.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/8.pdf
         name: slides
 
     homework:
@@ -111,7 +111,7 @@ schedule:
     kind: Lecture
     date: 2024-02-13T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/9.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/9.pdf
         name: slides
 
     main:
@@ -124,7 +124,7 @@ schedule:
     kind: Lecture
     date: 2024-02-15T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/10.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/10.pdf
         name: slides
     main:
       - url: https://arxiv.org/pdf/1811.01727.pdf
@@ -138,7 +138,7 @@ schedule:
     kind: Lecture
     date: 2024-02-20T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/11.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/11.pdf
         name: slides
     main:
       - url: https://www.cs.cmu.edu/~christos/courses/826-resources/PAPERS+BOOK/google-anatomy.pdf
@@ -152,7 +152,7 @@ schedule:
     kind: Lecture
     date: 2024-02-22T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/12.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/12.pdf
         name: slides
     main:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/Papers/haveliwala-www02-tspr.pdf
@@ -166,7 +166,7 @@ schedule:
     kind: Lecture
     date: 2024-02-27T15:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/13.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/13.pdf
         name: slides
   - number: ""
     title: ""
@@ -192,7 +192,7 @@ schedule:
     kind: Lecture
     date: 2024-03-12T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/14.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/14.pdf
         name: slides
     main:
       - url: https://proceedings.neurips.cc/paper/2001/file/f106b7f99d2cb30c3db1c3cc0fde9ccb-Paper.pdf
@@ -205,7 +205,7 @@ schedule:
     kind: Lecture
     date: 2024-03-14T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/15.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/15.pdf
         name: slides
     main:
       - url: https://arxiv.org/pdf/1609.02907.pdf
@@ -222,7 +222,7 @@ schedule:
     kind: Lecture
     date: 2024-03-19T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/16.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/16.pdf
         name: slides
     main:
       - url: https://arxiv.org/abs/1810.00826
@@ -236,7 +236,7 @@ schedule:
     kind: Guest Speaker
     date: 2024-03-21T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/17.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/17.pdf
         name: slides
     main:
       - url: https://arxiv.org
@@ -248,7 +248,7 @@ schedule:
     kind: Lecture
     date: 2024-03-26T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/18.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/18.pdf
         name: slides
     main:
       - url: https://arxiv.org/pdf/1810.10659.pdf
@@ -262,7 +262,7 @@ schedule:
     kind: Lecture
     date: 2024-03-28T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/19.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/19.pdf
         name: slides
     main:
       - url: https://arxiv.org/abs/2210.04123
@@ -276,7 +276,7 @@ schedule:
     kind: Guest Speaker
     date: 2024-04-02T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/20.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/20.pdf
         name: slides
     main:
       - url: https://arxiv.org/pdf/1902.10197.pdf
@@ -288,7 +288,7 @@ schedule:
     kind: Lecture
     date: 2024-04-04T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/21.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/21.pdf
         name: slides
     main:
       - url: https://arxiv.org/abs/1705.02426
@@ -303,7 +303,7 @@ schedule:
     kind: Guest Speaker
     date: 2024-04-09T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/22.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/22.pdf
         name: slides
     main:
       - url: https://arxiv.org
@@ -327,7 +327,7 @@ schedule:
     kind: Lecture
     date: 2024-04-16T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/23.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/23.pdf
         name: slides
     main:
       - url: https://arxiv.org
@@ -339,7 +339,7 @@ schedule:
     kind: Lecture
     date: 2024-04-18T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/24.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/24.pdf
         name: slides
     main:
       - url: https://proceedings.neurips.cc/paper_files/paper/2019/file/9d63484abb477c97640154d40595a3bb-Paper.pdf
@@ -351,7 +351,7 @@ schedule:
     kind: Lecture
     date: 2024-04-23T12:30
     links:
-      - url: http://la.lti.cs.cmu.edu/classes/11-741/f23/Lectures/25.pdf
+      - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/25.pdf
         name: slides
     main:
       - url: https://arxiv.org/abs/1605.01832
