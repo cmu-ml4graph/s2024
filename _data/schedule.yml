@@ -324,7 +324,7 @@ schedule:
   - number: 23
     title: "TBD (invited lecture by Dr. Yinglong Xia from Meta)"
     theme: Graph 13
-    kind: Lecture
+    kind: Guest Speaker
     date: 2024-04-16T12:30
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/23.pdf
