@@ -331,7 +331,7 @@ schedule:
         name: slides
     main:
       - url: https://arxiv.org
-        title: "TBD"
+        title: "TBD (invited lecture by Yinglong Xia from Meta)"
 
   - number: 24
     title: "Reasoning with Heterogeneous Graphs (I)"
