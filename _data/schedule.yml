@@ -322,7 +322,7 @@ schedule:
     date: 2024-04-13T15:30
 
   - number: 23
-    title: "TBD"
+    title: "TBD (invited lecture by Dr. Yinglong Xia from Meta)"
     theme: Graph 13
     kind: Lecture
     date: 2024-04-16T12:30
@@ -331,7 +331,7 @@ schedule:
         name: slides
     main:
       - url: https://arxiv.org
-        title: "TBD (invited lecture by Yinglong Xia from Meta)"
+        title: "TBD"
 
   - number: 24
     title: "Reasoning with Heterogeneous Graphs (I)"
