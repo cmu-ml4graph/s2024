@@ -28,9 +28,9 @@ teaching_assistants:
   - name: Zhiqing Sun
     profile_pic: /_images/site/zhiqing.jpeg
     webpage: https://www.cs.cmu.edu/~zhiqings/
-  - name: Zekai Li
-    profile_pic: /_images/site/zekai.jpeg
-    webpage: https://www.linkedin.com/in/zekaili22
+#  - name: Zekai Li
+#    profile_pic: /_images/site/zekai.jpeg
+#    webpage: https://www.linkedin.com/in/zekaili22
 
 # Homework
 homework:
