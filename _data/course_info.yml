@@ -54,11 +54,12 @@ policies:
   - <a href="http://la.lti.cs.cmu.edu/classes/11-741/s24/Policy/cheating.html">Cheating</a> (<a href="http://la.lti.cs.cmu.edu/classes/11-741/s24/Policy/cheating_policy_form.pdf">form to sign</a>)
 
 gracedays:
-  - There are 5 grace days for the homework submissions
-  - Grace days will be automatically and greedily applied when you submit a late homework
+  - There are 5 grace days for the homework submissions.
+  - Grace days will be automatically and greedily applied when you submit a late homework.
   - 5 grace days are for ALL of your homework, NOT EACH INDIVIDUAL homework, so if you use 5 days for HW1, then you no longer have any grace days for later homeworks.
   - For each individual homework, the code and report are submitted separately for autograding purposes. The penalty will be computed based on the submission time of which ever was submitted last. So if you submit the report before deadline but didn't submit your code on time, it is still considered late.
   - No penalty is applied if you use grace days.
+  - Grace days cannot be applied to the last homework (i.e., HW5).
 
 # Links
 links:
