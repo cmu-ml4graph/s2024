@@ -50,7 +50,11 @@ grading:
 # Policies
 policies:
   - Homework is due by 11:59pm of the due date. It must be submitted by Gradescope. If Gradescope is down, it must be submitted by email to the TA.
-  - There are 5 grace days for the homework submissions: 1. Grace days will be automatically and greedily applied when you submit a late homework 2. 5 grace days are for ALL of your homework, NOT EACH INDIVIDUAL homework, so if you use 5 days for HW1, then you no longer have any grace days for later homeworks. 3. For each individual homework, the code and report are submitted separately for autograding purposes. The penalty will be computed based on the submission time of which ever was submitted last. So if you submit the report before deadline but didn't submit your code on time, it is still considered late. 4. No penalty is applied if you use grace days.
+  - There are 5 grace days for the homework submissions:
+    1. Grace days will be automatically and greedily applied when you submit a late homework
+    2. 5 grace days are for ALL of your homework, NOT EACH INDIVIDUAL homework, so if you use 5 days for HW1, then you no longer have any grace days for later homeworks.
+    3. For each individual homework, the code and report are submitted separately for autograding purposes. The penalty will be computed based on the submission time of which ever was submitted last. So if you submit the report before deadline but didn't submit your code on time, it is still considered late.
+    4. No penalty is applied if you use grace days.
   - A 10% penalty is applied for each day that the homework is late.
   - <a href="http://la.lti.cs.cmu.edu/classes/11-741/s24/Policy/cheating.html">Cheating</a> (<a href="http://la.lti.cs.cmu.edu/classes/11-741/s24/Policy/cheating_policy_form.pdf">form to sign</a>)
 
