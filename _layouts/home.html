@@ -288,6 +288,13 @@ layout: default
             <li>{{policy }} </li>
             {% endfor %}
         </ul>
+
+        <h2>Grace days</h2>
+        <ul>
+            {% for policy in site.data.course_info.gracedays %}
+            <li>{{policy }} </li>
+            {% endfor %}
+        </ul>
     </div>
 
     <div class="container sec">
