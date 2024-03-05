@@ -160,6 +160,7 @@ schedule:
     homework:
       - title: <b> HW3. PageRank methods. </b>
       - title: <b> Due 3/19 11:59PM </b>
+      
   - number: 13
     title: "Matrix Factorization (Eigendecompostion and SVD)"
     theme: Graph 3
@@ -168,6 +169,7 @@ schedule:
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/13.pdf
         name: slides
+        
   - number: ""
     title: ""
     theme: <mark><b> Midterm Exam on Lectures 1-13 </b></mark>
@@ -186,6 +188,7 @@ schedule:
     theme: Spring break
     kind: Spring break
     date: 2024-03-07T15:30
+    
   - number: 14
     title: "Node Embedding"
     theme: Graph 4
@@ -234,7 +237,6 @@ schedule:
 
   - number: 17
     title: "Knowledge Graph Embedding (I): TransE, RotatE (Invited Lectured by Zhiqing Sun)"
-    # title: "ML for NP-Complete Problems (I): Fundamentals (Invited Lecture by Shengyu Feng)"
     theme: Graph 7
     kind: Guest Speaker
     date: 2024-03-21T12:30
@@ -244,9 +246,7 @@ schedule:
     main:
       - url: https://arxiv.org/pdf/1902.10197.pdf
         title: "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space"
-      # - url: https://arxiv.org
-      #   title: "TBD"
-
+      
   - number: 18
     title: "Knowledge Graph Embedding (II): Analogy"
     # title: "ML for NP-Complete Problems (II): with RNN, Transformer, Active Search"
@@ -259,11 +259,7 @@ schedule:
     main:
       - url: https://arxiv.org/abs/1705.02426
         title: "Analogical Inference for Multi-Relational Embeddings"
-      # - url: https://arxiv.org/pdf/1810.10659.pdf
-      #   title: "Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search"
-      # - url: https://arxiv.org/abs/1803.08475
-      #   title: "Attention, Learn to Solve Routing Problems!"
-
+      
   - number: 19
     title: "ML for NP-Complete Problems (I): Autoregressive Neural Solvers"
     theme: Graph 9
@@ -280,7 +276,6 @@ schedule:
       - url: https://arxiv.org/pdf/1810.10659.pdf
        title: "Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search"
     
-
   - number: 20
     title: "ML for NP-Complete Problems (II): Non-autoregressive Neural Solvers"
     theme: Graph 10
@@ -294,7 +289,6 @@ schedule:
        title: "DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems"
      - url: https://arxiv.org/abs/2302.08224
        title: "DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization"
-
 
   - number: 21
     title: "ML for NP-Complete Problems (III): Other Neural CO Solvers (LLMs)"
