@@ -265,8 +265,7 @@ schedule:
       #   title: "Attention, Learn to Solve Routing Problems!"
 
   - number: 19
-    title: "ML for NP-Complete Problems (I): Fundamentals (Invited Lecture by Shengyu Feng)"
-    # title: "ML for NP-Complete Problems (III): with DRL, Diffusion Models, LLMs"
+    title: "ML for NP-Complete Problems (I): Autoregressive Neural Solvers"
     theme: Graph 9
     kind: Lecture
     date: 2024-03-28T12:30
@@ -274,33 +273,31 @@ schedule:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/19.pdf
         name: slides
     main:
-      - url: https://arxiv.org
-        title: "TBD"
-      # - url: https://arxiv.org/abs/2210.04123
-      #   title: "DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems"
-      # - url: https://arxiv.org/abs/2302.08224
-      #   title: "DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization"
+      - url: https://arxiv.org/abs/2006.07054
+        title: "Learning the Travelling Salesperson Problem Requires Rethinking Generalization"     
+      - url: https://arxiv.org/abs/1803.08475
+        title: "Attention, Learn to Solve Routing Problems!"  
+      - url: https://arxiv.org/pdf/1810.10659.pdf
+       title: "Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search"
+    
 
   - number: 20
-    title: "ML for NP-Complete Problems (II): with RNN, Transformer, Active Search"
-    # title: "Knowledge Graph Embedding (I): TransE, RotatE (Invited Lectured by Zhiqing Sun)"
+    title: "ML for NP-Complete Problems (II): Non-autoregressive Neural Solvers"
     theme: Graph 10
-    kind: Guest Speaker
+    kind: Lecture
     date: 2024-04-02T12:30
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/20.pdf
         name: slides
     main:
-      # - url: https://arxiv.org/pdf/1902.10197.pdf
-      #   title: "RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space"
-      - url: https://arxiv.org/pdf/1810.10659.pdf
-        title: "Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search"
-      - url: https://arxiv.org/abs/1803.08475
-        title: "Attention, Learn to Solve Routing Problems!"
+     - url: https://arxiv.org/abs/2210.04123
+       title: "DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems"
+     - url: https://arxiv.org/abs/2302.08224
+       title: "DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization"
+
 
   - number: 21
-    title: "ML for NP-Complete Problems (III): with DRL, Diffusion Models, LLMs"
-    # title: "Knowledge Graph Embedding (II): Analogy"
+    title: "ML for NP-Complete Problems (III): Other Neural CO Solvers (LLMs)"
     theme: Graph 11
     kind: Lecture
     date: 2024-04-04T12:30
@@ -308,12 +305,8 @@ schedule:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/21.pdf
         name: slides
     main:
-      # - url: https://arxiv.org/abs/1705.02426
-      #   title: "Analogical Inference for Multi-Relational Embeddings"
-      - url: https://arxiv.org/abs/2210.04123
-        title: "DIMES: A Differentiable Meta Solver for Combinatorial Optimization Problems"
-      - url: https://arxiv.org/abs/2302.08224
-        title: "DIFUSCO: Graph-based Diffusion Solvers for Combinatorial Optimization"
+      - url: https://arxiv.org/abs/2309.03409
+        title: "Large Language Models as Optimizers"
     homework:
       - title: <b> HW5. Node Embedding with TransE. </b>
       - title: <b> Due 4/18 11:59PM </b>
