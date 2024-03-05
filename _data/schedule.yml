@@ -16,7 +16,6 @@ schedule:
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/2.pdf
         name: slides
-
     main:
       - url: https://arxiv.org/abs/1301.3781
         title: "Efficient Estimation of Word Representations in Vector Space"
@@ -31,7 +30,6 @@ schedule:
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/3.pdf
         name: slides
-
     main:
       - url: https://dennybritz.com/posts/wildml/recurrent-neural-networks-tutorial-part-1
         title: "Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs"
@@ -100,7 +98,6 @@ schedule:
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/8.pdf
         name: slides
-
     homework:
       - title: <b> HW2. Softmax with SGD </b>
       - title: <b> Due 2/27 11:59PM </b>
@@ -113,7 +110,6 @@ schedule:
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/9.pdf
         name: slides
-
     main:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/Papers/Shalev-icml2007-subgradient.pdf
         title: "Pegasos: Primal Estimated sub-GrAdient SOlver for SVM"
@@ -202,6 +198,7 @@ schedule:
         title: "Laplacian Eigenmaps and Spectral Techniques for Embedding and Clustering"
       - url: https://arxiv.org/pdf/1403.6652.pdf
         title: "DeepWalk: Online Learning of Social Representations"
+
   - number: 15
     title: "Graph Neural Networks (I)"
     theme: Graph 5
@@ -232,8 +229,6 @@ schedule:
         title: "How Powerful are Graph Neural Networks?"
       - url: https://dl.acm.org/doi/pdf/10.1145/3442381.3449925
         title: "Knowledge Embedding based GCN (WWW 2021)"
-    #    - url: https://arxiv.org/abs/2210.04123
-    #   title: "Anisotropic GNN (in DIMES, NeurIPS 2022)"
 
   - number: 17
     title: "Knowledge Graph Embedding (I): TransE, RotatE (Invited Lectured by Zhiqing Sun)"
@@ -274,8 +269,8 @@ schedule:
       - url: https://arxiv.org/abs/1803.08475
         title: "Attention, Learn to Solve Routing Problems!"  
       - url: https://arxiv.org/pdf/1810.10659.pdf
-       title: "Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search"
-    
+        title: "Combinatorial Optimization with Graph Convolutional Networks and Guided Tree Search"
+
   - number: 20
     title: "ML for NP-Complete Problems (II): Non-autoregressive Neural Solvers"
     theme: Graph 10
