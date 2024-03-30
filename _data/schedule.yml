@@ -309,8 +309,8 @@ schedule:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/22.pdf
         name: slides
     main:
-      - url: https://arxiv.org
-        title: "TBD"
+      - url: https:https://arxiv.org/pdf/2109.12843.pdf
+        title: "A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions"
 
   - number: ""
     title: Spring carnival (No class)
@@ -332,9 +332,9 @@ schedule:
     links:
       - url: http://la.lti.cs.cmu.edu/classes/11-741/s24/Lectures/23.pdf
         name: slides
-    main:
-      - url: https://arxiv.org
-        title: "TBD"
+   # main:
+   #  - url: https://arxiv.org
+   #    title: "TBD"
 
   - number: 24
     title: "Reasoning with Heterogeneous Graphs (I)"
