@@ -347,6 +347,8 @@ schedule:
     main:
       - url: https://proceedings.neurips.cc/paper_files/paper/2019/file/9d63484abb477c97640154d40595a3bb-Paper.pdf
         title: "Graph Transformer Networks"
+      - url: https://arxiv.org/pdf/2106.05234.pdf
+        title: "Do Transformers Really Perform Bad for Graph Representation?"
 
   - number: 25
     title: "Reasoning with Heterogeneous Graphs (II)"
